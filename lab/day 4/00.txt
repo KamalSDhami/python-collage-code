@@ -1,0 +1,28 @@
+1 write a python program to generate a fibonacci series when the serries will start from - and 1 and should be less than n consider n =22
+
+2. write a python program to check whether the given string is palindrome.
+input : "754577"/"aba"
+output "yes it is "/"no it is not"
+Note it should be a generic program for a string 
+
+3. write a python program to print the factorial of a number n 
+
+4. write a pyhton program for given tasks:
+a)consider the given array and print the sum of all the numbers 
+arr =[1,2,3,4,5,6,7,8,9,10]
+
+b) consider the given array and rotate it to the right by k steps [1,2,3,4,5,6,7,8,9,10] ->[10,1,2,3,4,5,6,7,8,9] consider k =2
+
+c) consider the given array and find the occurance of k 
+[1,2,2,26,5,4,4,4,6,6,82,2,1,2,2]. consider k =2
+
+
+#anaconda nevigator
+
+i =0
+j=1
+k=i+1
+
+i=j
+j=k
+k=i+j
