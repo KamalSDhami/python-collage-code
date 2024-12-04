@@ -1,0 +1,6 @@
+employee_id,name,department,salary,experience_year
+1,  Alice,Sales,55000,5
+2,  BOB,IT,NaN,7
+3,  Charlie,Sales,NaN,NaN
+4,  Diana,HR,12000010
+5,  Eve,IT95000,NaN
